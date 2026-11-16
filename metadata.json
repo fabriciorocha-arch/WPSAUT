@@ -1,0 +1,6 @@
+{
+  "name": "ZapFlow AI - WhatsApp & CRM Inteligente",
+  "description": "Atendimento automático no WhatsApp com IA Gemini, follow-up programado de 24h, planilha de clientes e dashboard analítico de conversão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
